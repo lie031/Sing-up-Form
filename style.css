@@ -7,11 +7,21 @@ body{
 }
 
 h1{
-    margin-left: 165px;
+    margin-left: 170px;
+    color: red;
+    font-weight: bolder;
 }
 
 button{
-    margin-left: 165px;
+    margin-left: 170px;
+    padding: 10px;
+    margin-bottom: 10px;
+    border-radius: 10px;
+    border: none;
+    background-color: red;
+    color: white;
+    cursor: pointer;
+    font-weight: bold;
 }
 
 .left{
